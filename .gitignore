@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+node_modules/
+
+# ignore blog setup
+/dist
+/assets
+/build.js
+/lib
+/package.json
+/theme
