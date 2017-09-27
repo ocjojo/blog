@@ -19,7 +19,7 @@ How to fix out of memory error using MariaDB on low memory systems.
 
 ---
 
-####[Javascript: sync vs. async](https://github.com/ocjojo/blog/blob/master/source/2017/javascript-sync-vs-async.md)
+#### [Javascript: sync vs. async](https://github.com/ocjojo/blog/blob/master/source/2017/javascript-sync-vs-async.md)
 
 What asynchronous code is and why you should bother writing it.
 
